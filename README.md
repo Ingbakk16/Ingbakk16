@@ -12,9 +12,9 @@
 
 ## 👋 Sobre mí
 
-Soy estudiante de programación con interés en el desarrollo backend, APIs REST, bases de datos y soluciones prácticas para problemas reales. Me gusta aprender nuevas tecnologías, construir proyectos funcionales y mejorar la experiencia del usuario con código limpio y bien estructurado.
+Soy Ingmar Bakker, Técnico Universitario en Programación graduado de la Universidad Austral y actualmente estudiante de la Licenciatura en Ciencia de Datos. Me interesa combinar el desarrollo de software con el análisis de datos para crear soluciones útiles, escalables y basadas en información.
 
-Actualmente estoy desarrollando proyectos con tecnologías como Java, Spring Boot, C#, ASP.NET Core, SQL, PostgreSQL, JWT y arquitectura de servicios.
+Tengo experiencia construyendo aplicaciones y APIs, trabajando con bases de datos y explorando tecnologías como Java, Spring Boot, C#, ASP.NET Core, PostgreSQL, MongoDB y R. Disfruto aprender, resolver problemas y convertir ideas en proyectos concretos.
 
 ## 🧭 Proyectos por categoría
 
