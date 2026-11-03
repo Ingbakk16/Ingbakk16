@@ -23,5 +23,5 @@ University Technician in Programming, graduated from Universidad Austral, and cu
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-TU_EMAIL-555?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_PERFIL-555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL/)
+[![Email](https://img.shields.io/badge/Email-ingmarbakkerarg%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:ingmarbakkerarg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ingmar%20Bakker-555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingmar-bakker/)
