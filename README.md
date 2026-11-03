@@ -2,12 +2,9 @@
 
 Técnico Universitario en Programación, graduado de la Universidad Austral, y estudiante de la Licenciatura en Ciencia de Datos. Me interesa generar soluciones y aportar valor. Actualmente estoy orientando mi perfil hacia la ingeniería de datos.
 
-## Skills
+## IA skills
 
-- Java, Spring Boot
-- C#, ASP.NET Core
-- PostgreSQL, MongoDB
-- R, Git
+- [r-skills](https://github.com/Ingbakk16/r-skills) - skills para desarrollo académico de paquetes en R.
 
 ## Software
 
@@ -17,6 +14,5 @@ Técnico Universitario en Programación, graduado de la Universidad Austral, y e
 
 ## Data
 
-- [Datos-Agropecuarios-ER](https://github.com/Ingbakk16/Datos-Agropecuarios-ER)
-- [ibdata](https://github.com/Ingbakk16/ibdata)
-- [r-skills](https://github.com/Ingbakk16/r-skills)
+- [Datos-Agropecuarios-ER](https://github.com/Ingbakk16/Datos-Agropecuarios-ER) - Datos agropecuarios centralizados de la provincia de Entre Rios.
+- [ibdata](https://github.com/Ingbakk16/ibdata) - Paquete de funciones de R
