@@ -7,8 +7,6 @@ University Technician in Programming, graduated from Universidad Austral, and cu
 ## Skills
 
 - [r-skills](https://github.com/Ingbakk16/r-skills) — Funciones y herramientas desarrolladas en R.
-- Java, Spring Boot, C#, ASP.NET Core
-- PostgreSQL, MongoDB, Git
 
 ## Software
 
