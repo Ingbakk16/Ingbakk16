@@ -6,7 +6,10 @@ University Technician in Programming, graduated from Universidad Austral, and cu
 
 ## Skills
 
+- [java-clean-code-skill](https://github.com/juanpiRiv/java-clean-code-skill) — Clean code practices and Java learning resources.
 - [r-skills](https://github.com/Ingbakk16/r-skills) — Funciones y herramientas desarrolladas en R.
+- Java, Spring Boot, C#, ASP.NET Core
+- PostgreSQL, MongoDB, Git
 
 ## Software
 
@@ -16,6 +19,7 @@ University Technician in Programming, graduated from Universidad Austral, and cu
 
 ## Data
 
+- [data-stack-agroprotect](https://github.com/juanpiRiv/data-stack-agroprotect) — Data stack and analytics work related to Agroprotect.
 - [Datos-Agropecuarios-ER](https://github.com/Ingbakk16/Datos-Agropecuarios-ER) — Datos agropecuarios de la provincia de Entre Ríos.
 - [ibdata](https://github.com/Ingbakk16/ibdata) — Paquete de funciones de R.
 
